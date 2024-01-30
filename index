@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="es">
+    git init <repository_name>entornosdedesarrollodam</repository_name>
+    
+    
+    <head>
+        <h1>HOLA QUE HACE??</h1>
+        <link rel="stylesheet"href="style.css">
+    </head>
+
+    <body>
+        <img src="./pepon_nieto.jpg" alt="Imagen de Pepon Nieto">
+        <p>TODO WAY???</p>
+        <ol>
+            <li>pepon nieto</li>
+            <li>nuevo entrenador del FC BARCELONA</li>
+            <li>LA ETA MASONA</li>
+        </ol>
+
+        <table>
+            <th>
+                <td>hola</td>
+                <td>hola</td>
+            </th>
+        </table>
+    </body>
+</html>
